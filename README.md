@@ -2,6 +2,8 @@
 
 A Streamlit dashboard that automatically detects and visualizes technical analysis signals for stocks in Turkey's BIST 50 index.
 
+🔗 **Live Demo:** [bist50radar.streamlit.app](https://bist50radar.streamlit.app/)
+
 ## 🎯 Purpose
 
 Tracking 48 stocks simultaneously is impractical. This system calculates 5 technical indicators automatically and highlights strong signals — so investors can focus only on stocks that deserve attention.
